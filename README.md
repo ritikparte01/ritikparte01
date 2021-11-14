@@ -20,7 +20,7 @@ Skills: REACT / JS / HTML / CSS/C,C++
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ritikparte01&&theme=midnight-purple&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ritikparte01)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ritikparte01&theme=midnight-purple)  
 
 ![GitHub metrics](https://metrics.lecoq.io/ritikparte01)  
 
