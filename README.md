@@ -1,6 +1,6 @@
 ### Hi there 👋, Hey There, I'm Ritik 🙋‍♂️
 #### Frontend Web Developer
-![Frontend Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Frontend Web Developer]
 
 Welcome, I am a Frontend Web Developer Dedicated to Professional services.
 
