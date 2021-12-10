@@ -1,4 +1,4 @@
-### Hi there 👋, Hey There, I'm Ritik 🙋‍♂️
+### Hey There, I'm Ritik 🙋‍♂️
 #### Frontend Web Developer
 ![Frontend Web Developer]
 
@@ -6,7 +6,7 @@ Welcome, I am a Frontend Web Developer Dedicated to Professional services.
 
 Skills: REACT JS/ JS / HTML / CSS/ C,C++
 
-- 🔭 I’m currently working on https://ritikparte01.github.io/ultra1/ 
+- 🔭 I’m currently working on https://ritikparte01.github.io/ultra2/ 
 - 🌱 I’m currently learning React Js 
 - 👯 I’m looking to collaborate on Frontend Web Development Projects 
 - 📫 How to reach me: +919307996477 
