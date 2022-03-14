@@ -5,7 +5,7 @@ Welcome, I am a Frontend Web Developer Dedicated to Professional services.
 
 Skills: JS / HTML / CSS/ C,C++
 
-- 🔭 I’m currently working on https://ritikparte01.github.io/ultra3/ 
+- 🔭 I’m currently working on http://ritikparte1.epizy.com 
 - 🌱 I’m currently learning React Js 
 - 👯 I’m looking to collaborate on Frontend Web Development Projects 
 - 📫 How to reach me: +919307996477 
