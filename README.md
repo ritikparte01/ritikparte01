@@ -6,7 +6,7 @@ Welcome, I am a Frontend Web Developer Dedicated to Professional services.
 Skills: HTML / CSS / JAVASCRIPT / BOOTSTRAP / TAILWIND CSS / C / C++
 
 - 🔭 I’m currently working on https://ritikparte01.github.io/react-main/ 
-- 🌱 I’m currently started with Javascript And React Js 
+- 🌱 I’m currently started with React Js 
 - 👯 I’m looking to collaborate on Frontend Web Development Projects 
 - 📫 How to reach me: +919307996477 
 
