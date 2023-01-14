@@ -1,11 +1,11 @@
 ### Hey There, I'm Ritik 🙋‍♂️
 ![Frontend Web Developer]
 
-Welcome, I am a Frontend Web Developer Dedicated to Professional services.
+I am a Frontend Developer with a passion for creating visually stunning and user-friendly web experiences. I specialize in building responsive and interactive web applications using modern front-end technologies such as React Js. I am always eager to learn new technologies and stay up-to-date with the latest trends in front-end development. I am dedicated to creating high-quality, maintainable code and am always looking for new challenges and projects to work on. In my free time, I like to contribute to open source projects and participate in hackathons and coding challenges.
 
-Skills: HTML / CSS / JAVASCRIPT / BOOTSTRAP / TAILWIND CSS / C / C++
+Skills: HTML / CSS / JAVASCRIPT / BOOTSTRAP / TAILWIND CSS / REACT JS.
 
-- 🔭 I’m currently working on https://ritikparte1.epizy.com
+- 🔭 I’m currently working on https://ritikparte01.github.io/prayog-final/
 - 🌱 I’m currently started with React Js 
 - 👯 I’m looking to collaborate on Frontend Web Development Projects 
 - 📫 How to reach me: +919307996477 
