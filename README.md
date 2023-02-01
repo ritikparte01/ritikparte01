@@ -5,7 +5,7 @@ I am a Frontend Developer with a passion for creating visually stunning and user
 
 Skills: HTML / CSS / JAVASCRIPT / BOOTSTRAP / TAILWIND CSS / REACT JS.
 
-- 🔭 I’m currently working on https://ritikparte01.github.io/prayog-final/
+- 🔭 I’m currently working on https://snappify.epizy.com
 - 🌱 I’m currently started with React Js 
 - 👯 I’m looking to collaborate on Frontend Web Development Projects 
 - 📫 How to reach me: +919307996477 
